@@ -1,0 +1,815 @@
+[
+  {
+    "id": "аборт",
+    "match": [
+      "аборт"
+    ],
+    "exceptions": null,
+    "tags": ["shock"],
+    "severity": 4
+  },
+  {
+    "id": "анальный",
+    "match": [
+      "анальный"
+    ],
+    "exceptions": null,
+    "tags": ["shock"],
+    "severity": 4
+  },
+  {
+    "id": "анус",
+    "match": [
+      "анус"
+    ],
+    "exceptions": null,
+    "tags": ["shock"],
+    "severity": 4
+  },
+  {
+    "id": "жопа",
+    "match": [
+      "жопа", "жопень", "жопный", "жопотряс", "жопич", "жопных", 
+      "зажопинск"
+    ],
+    "exceptions": null,
+    "tags": ["shock"],
+    "severity": 4
+  },
+  {
+    "id": "мудак",
+    "match": [
+      "мудак", "мудила", "мудозвон", "мудачье", "мудацкий",
+      "мудацких", "мудаблядский"
+    ],
+    "exceptions": null,
+    "tags": ["shock"],
+    "severity": 4
+  },
+  {
+    "id": "придурок",
+    "match": [
+      "придурок", "придурки", "придурковатый"
+    ],
+    "exceptions": null,
+    "tags": ["shock"],
+    "severity": 4
+  },
+  {
+    "id": "ублюдок",
+    "match": [
+      "ублюдок", "ублюдки"
+    ],
+    "exceptions": null,
+    "tags": ["shock"],
+    "severity": 4
+  },
+  {
+    "id": "разврат",
+    "match": [
+      "развратный", "развратная", "развратище", "развратить"
+    ],
+    "exceptions": null,
+    "tags": ["shock"],
+    "severity": 4
+  },
+  {
+    "id": "сука",
+    "match": [
+      "сука", "суки", "сучьих", "сученок", "сукин", "сучка",
+      "засучился"
+    ],
+    "exceptions": [
+      "засучить", "засучив", "сучок"
+    ],
+    "tags": ["shock"],
+    "severity": 4
+  },
+  {
+    "id": "минета",
+    "match": [
+      "минет", "минета"
+    ],
+    "exceptions": null,
+    "tags": ["shock"],
+    "severity": 4
+  },
+  {
+    "id": "болван",
+    "match": [
+      "болван"
+    ],
+    "exceptions": [
+      "болванка"
+    ],
+    "tags": ["shock"],
+    "severity": 4
+  },
+  {
+    "id": "буфера",
+    "match": [
+      "буфера"
+    ],
+    "exceptions": null,
+    "tags": ["shock"],
+    "severity": 4
+  },
+  {
+    "id": "грудь",
+    "match": [
+      "грудь"
+    ],
+    "exceptions": null,
+    "tags": ["shock"],
+    "severity": 4
+  },
+  {
+    "id": "бусета",
+    "match": [
+      "бусета"
+    ],
+    "exceptions": null,
+    "tags": ["shock"],
+    "severity": 4
+  },
+  {
+    "id": "бомж",
+    "match": [
+      "бомж"
+    ],
+    "exceptions": null,
+    "tags": ["shock"],
+    "severity": 4
+  },
+  {
+    "id": "клитор",
+    "match": [
+      "клитор"
+    ],
+    "exceptions": null,
+    "tags": ["shock"],
+    "severity": 4
+  },
+  {
+    "id": "петух",
+    "match": [
+      "петух", "петухи"
+    ],
+    "exceptions": null,
+    "tags": ["shock"],
+    "severity": 4
+  },
+  {
+    "id": "кран-присоска",
+    "match": [
+      "кран-присоска"
+    ],
+    "exceptions": null,
+    "tags": ["shock"],
+    "severity": 4
+  },
+  {
+    "id": "дерьмо",
+    "match": [
+      "дерьмо", "дерьмовый", "дерьмище", "дерьмоед"
+    ],
+    "exceptions": [
+      "дерево"
+    ],
+    "tags": ["shock"],
+    "severity": 4
+  },
+  {
+    "id": "сперма",
+    "match": [
+      "сперма", "спермобак", "спермовый"
+    ],
+    "exceptions": null,
+    "tags": ["shock"],
+    "severity": 4
+  },
+  {
+    "id": "пизда",
+    "match": [
+      "пизда", "пиздец", "пиздострадания",
+      
+      "пиздатый", "пиздатая", "пизданутый",
+      
+      "пиздеж", "запиздился", "пиздун", "пиздежник", 
+      "пиздобол", "пиздоболище"
+    ],
+    "exceptions": null,
+    "tags": ["shock"],
+    "severity": 4
+  },
+  {
+    "id": "черт",
+    "match": [
+      "черт", "чертила", "чертенок"
+    ],
+    "exceptions": [
+      "чертополох"
+    ],
+    "tags": ["shock"],
+    "severity": 4
+  },
+  {
+    "id": "дик",
+    "match": [
+      "дик"
+    ],
+    "exceptions": null,
+    "tags": ["shock"],
+    "severity": 4
+  },
+  {
+    "id": "фаллоимитатор",
+    "match": [
+      "фаллоимитатор", "фаллоимитаторы"
+    ],
+    "exceptions": null,
+    "tags": ["shock"],
+    "severity": 4
+  },
+  {
+    "id": "собака-засранец",
+    "match": [
+      "собака-засранец"
+    ],
+    "exceptions": null,
+    "tags": ["shock"],
+    "severity": 4
+  },
+  {
+    "id": "дуче",
+    "match": [
+      "дуче"
+    ],
+    "exceptions": null,
+    "tags": ["shock"],
+    "severity": 4
+  },
+  {
+    "id": "эякулят",
+    "match": [
+      "эякулят", "эякулирует", "эякуляция"
+    ],
+    "exceptions": null,
+    "tags": ["shock"],
+    "severity": 4
+  },
+  {
+    "id": "пидор",
+    "match": [
+      "пидор", "пидорас", "пидорасина", "пидрила"
+    ],
+    "exceptions": null,
+    "tags": ["shock"],
+    "severity": 4
+  },
+  {
+    "id": "педик",
+    "match": [
+      "педик", "педики", "педорастический"
+    ],
+    "exceptions": null,
+    "tags": ["shock"],
+    "severity": 4
+  },
+  {
+    "id": "фелляция",
+    "match": [
+      "фелляция"
+    ],
+    "exceptions": null,
+    "tags": ["shock"],
+    "severity": 4
+  },
+  {
+    "id": "фланец",
+    "match": [
+      "фланец"
+    ],
+    "exceptions": null,
+    "tags": ["shock"],
+    "severity": 4
+  },
+  {
+    "id": "блядь",
+    "match": [
+      "блядь"
+    ],
+    "exceptions": null,
+    "tags": ["shock"],
+    "severity": 4
+  },
+  {
+    "id": "трахал",
+    "match": [
+      "трахал", "трахается", "трахич",
+      
+      "затрахал", "вытрахал", "оттрахал", "трахнул"
+    ],
+    "exceptions": null,
+    "tags": ["shock"],
+    "severity": 4
+  },
+  {
+    "id": "подонок",
+    "match": [
+      "подонок", "подонки"
+    ],
+    "exceptions": null,
+    "tags": ["shock"],
+    "severity": 4
+  },
+  {
+    "id": "лохи",
+    "match": [
+      "лох", "лохи"
+    ],
+    "exceptions": null,
+    "tags": ["shock"],
+    "severity": 4
+  },
+  {
+    "id": "ебать",
+    "match": [
+      "ебля"
+    ],
+    "exceptions": null,
+    "tags": ["shock"],
+    "severity": 4
+  },
+  {
+    "id": "половые губы",
+    "match": [
+      "половые губы"
+    ],
+    "exceptions": null,
+    "tags": ["shock"],
+    "severity": 4
+  },
+  {
+    "id": "похоть",
+    "match": [
+      "похоть"
+    ],
+    "exceptions": [
+      "хоть", "хотя"
+    ],
+    "tags": ["shock"],
+    "severity": 4
+  },
+  {
+    "id": "вожделеющий",
+    "match": [
+      "вожделеющий"
+    ],
+    "exceptions": null,
+    "tags": ["shock"],
+    "severity": 4
+  },
+  {
+    "id": "мазохист",
+    "match": [
+      "мазохист"
+    ],
+    "exceptions": null,
+    "tags": ["shock"],
+    "severity": 4
+  },
+  {
+    "id": "мастурбировать",
+    "match": [
+      "мастурбировать"
+    ],
+    "exceptions": null,
+    "tags": ["shock"],
+    "severity": 4
+  },
+  {
+    "id": "нацист",
+    "match": [
+      "нацист"
+    ],
+    "exceptions": null,
+    "tags": ["shock"],
+    "severity": 4
+  },
+  {
+    "id": "негр",
+    "match": [
+      "негр", "негры"
+    ],
+    "exceptions": null,
+    "tags": ["shock"],
+    "severity": 4
+  },
+  {
+    "id": "оргазм",
+    "match": [
+      "оргазм", "оргазмы"
+    ],
+    "exceptions": null,
+    "tags": ["shock"],
+    "severity": 4
+  },
+  {
+    "id": "клюв",
+    "match": [
+      "клюв"
+    ],
+    "exceptions": null,
+    "tags": ["shock"],
+    "severity": 4
+  },
+  {
+    "id": "пенис",
+    "match": [
+      "пенис"
+    ],
+    "exceptions": null,
+    "tags": ["shock"],
+    "severity": 4
+  },
+  {
+    "id": "ссать",
+    "match": [
+      "ссать", "ссание", "ссаный"
+    ],
+    "exceptions": null,
+    "tags": ["shock"],
+    "severity": 4
+  },
+  {
+    "id": "пьяный",
+    "match": [
+      "пьяный"
+    ],
+    "exceptions": null,
+    "tags": ["shock"],
+    "severity": 4
+  },
+  {
+    "id": "писает",
+    "match": [
+      "писает"
+    ],
+    "exceptions": null,
+    "tags": ["shock"],
+    "severity": 4
+  },
+  {
+    "id": "порно",
+    "match": [
+      "порно", "порнушка"
+    ],
+    "exceptions": null,
+    "tags": ["shock"],
+    "severity": 4
+  },
+  {
+    "id": "порнография",
+    "match": [
+      "порнография"
+    ],
+    "exceptions": null,
+    "tags": ["shock"],
+    "severity": 4
+  },
+  {
+    "id": "колоть",
+    "match": [
+      "колоть"
+    ],
+    "exceptions": null,
+    "tags": ["shock"],
+    "severity": 4
+  },
+  {
+    "id": "уколов",
+    "match": [
+      "уколов"
+    ],
+    "exceptions": null,
+    "tags": ["shock"],
+    "severity": 4
+  },
+  {
+    "id": "киска",
+    "match": [
+      "киска", "кисок"
+    ],
+    "exceptions": null,
+    "tags": ["shock"],
+    "severity": 4
+  },
+  {
+    "id": "изнасилование",
+    "match": [
+      "изнасилование"
+    ],
+    "exceptions": null,
+    "tags": ["shock"],
+    "severity": 4
+  },
+  {
+    "id": "насильник",
+    "match": [
+      "насильник"
+    ],
+    "exceptions": null,
+    "tags": ["shock"],
+    "severity": 4
+  },
+  {
+    "id": "прямая кишка",
+    "match": [
+      "прямая кишка"
+    ],
+    "exceptions": null,
+    "tags": ["shock"],
+    "severity": 4
+  },
+  {
+    "id": "запаздывание",
+    "match": [
+      "запаздывание"
+    ],
+    "exceptions": null,
+    "tags": ["shock"],
+    "severity": 4
+  },
+  {
+    "id": "римминг",
+    "match": [
+      "римминг"
+    ],
+    "exceptions": null,
+    "tags": ["shock"],
+    "severity": 4
+  },
+  {
+    "id": "садист",
+    "match": [
+      "садист"
+    ],
+    "exceptions": null,
+    "tags": ["shock"],
+    "severity": 4
+  },
+  {
+    "id": "мошонка",
+    "match": [
+      "мошонка"
+    ],
+    "exceptions": null,
+    "tags": ["shock"],
+    "severity": 4
+  },
+  {
+    "id": "секс",
+    "match": [
+      "секс", "сексуальный", "сексапильный", "сексуальная", "сексапильная"
+    ],
+    "exceptions": null,
+    "tags": ["shock"],
+    "severity": 4
+  },
+  {
+    "id": "махорка",
+    "match": [
+      "махорка"
+    ],
+    "exceptions": null,
+    "tags": ["shock"],
+    "severity": 4
+  },
+  {
+    "id": "транссексуал",
+    "match": [
+      "транссексуал"
+    ],
+    "exceptions": null,
+    "tags": ["shock"],
+    "severity": 4
+  },
+  {
+    "id": "ситэ",
+    "match": [
+      "ситэ"
+    ],
+    "exceptions": null,
+    "tags": ["shock"],
+    "severity": 4
+  },
+  {
+    "id": "гадит",
+    "match": [
+      "гадит"
+    ],
+    "exceptions": null,
+    "tags": ["shock"],
+    "severity": 4
+  },
+  {
+    "id": "какание",
+    "match": [
+      "какание"
+    ],
+    "exceptions": null,
+    "tags": ["shock"],
+    "severity": 4
+  },
+  {
+    "id": "сраный",
+    "match": [
+      "сраный"
+    ],
+    "exceptions": null,
+    "tags": ["shock"],
+    "severity": 4
+  },
+  {
+    "id": "шлюха",
+    "match": [
+      "шлюха"
+    ],
+    "exceptions": null,
+    "tags": ["shock"],
+    "severity": 4
+  },
+  {
+    "id": "неряхи",
+    "match": [
+      "неряхи"
+    ],
+    "exceptions": null,
+    "tags": ["shock"],
+    "severity": 4
+  },
+  {
+    "id": "смегма",
+    "match": [
+      "смегма"
+    ],
+    "exceptions": null,
+    "tags": ["shock"],
+    "severity": 4
+  },
+  {
+    "id": "головня",
+    "match": [
+      "головня"
+    ],
+    "exceptions": null,
+    "tags": ["shock"],
+    "severity": 4
+  },
+  {
+    "id": "урвать",
+    "match": [
+      "урвать"
+    ],
+    "exceptions": null,
+    "tags": ["shock"],
+    "severity": 4
+  },
+  {
+    "id": "сукин сын",
+    "match": [
+      "сукин сын"
+    ],
+    "exceptions": null,
+    "tags": ["shock"],
+    "severity": 4
+  },
+  {
+    "id": "яичко",
+    "match": [
+      "яичко"
+    ],
+    "exceptions": null,
+    "tags": ["shock"],
+    "severity": 4
+  },
+  {
+    "id": "сиська",
+    "match": [
+      "сиська", "сиськи"
+    ],
+    "exceptions": null,
+    "tags": ["shock"],
+    "severity": 4
+  },
+  {
+    "id": "дристун",
+    "match": [
+      "дристун"
+    ],
+    "exceptions": null,
+    "tags": ["shock"],
+    "severity": 4
+  },
+  {
+    "id": "влагалище",
+    "match": [
+      "влагалище"
+    ],
+    "exceptions": null,
+    "tags": ["shock"],
+    "severity": 4
+  },
+  {
+    "id": "виагра",
+    "match": [
+      "виагра"
+    ],
+    "exceptions": null,
+    "tags": ["shock"],
+    "severity": 4
+  },
+  {
+    "id": "вульва",
+    "match": [
+      "вульва"
+    ],
+    "exceptions": null,
+    "tags": ["shock"],
+    "severity": 4
+  },
+  {
+    "id": "вана",
+    "match": [
+      "вана"
+    ],
+    "exceptions": null,
+    "tags": ["shock"],
+    "severity": 4
+  },
+  {
+    "id": "онанизм",
+    "match": [
+      "онанизм"
+    ],
+    "exceptions": null,
+    "tags": ["shock"],
+    "severity": 4
+  },
+  {
+    "id": "х рейтинг",
+    "match": [
+      "х рейтинг"
+    ],
+    "exceptions": null,
+    "tags": ["shock"],
+    "severity": 4
+  },
+  {
+    "id": "ххх",
+    "match": [
+      "ххх"
+    ],
+    "exceptions": null,
+    "tags": ["shock"],
+    "severity": 4
+  },
+  {
+    "id": "хуй",
+    "match": [
+      "хуй", "хуятина", "хуёвый", "хуета",
+      
+      "хуебес", "хуесос", "хуесосалка", "хуего", 
+      
+      "охуевший", "охуенный", "охуительный"
+    ],
+    "exceptions": ["хурма"],
+    "tags": ["shock"],
+    "severity": 4
+  },
+  {
+    "id": "хер",
+    "match": [
+      "хер", "херовый", "херота", "херого",
+
+      "охеревший", "охеренный", "охерительный"
+    ],
+    "exceptions": null,
+    "tags": ["shock"],
+    "severity": 4
+  },
+  {
+    "id": "хрен",
+    "match": [
+      "хреновый", "хренота",
+
+      "хренобес", "хреносос", "хреного",
+
+      "охреневший", "охрененный", "охренительный"
+    ],
+    "exceptions": null,
+    "tags": ["shock"],
+    "severity": 4
+  }
+]
